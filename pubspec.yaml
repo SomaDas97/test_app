@@ -65,6 +65,7 @@ flutter:
   assets:
     - assets/img.png
     - assetsOne/img.png
+    - assetsTwo/login page.png
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
